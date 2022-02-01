@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 
 """
 Checks for Sophos installation status and various version numbers.
